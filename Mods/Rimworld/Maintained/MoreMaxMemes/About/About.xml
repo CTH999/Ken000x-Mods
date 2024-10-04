@@ -25,4 +25,7 @@ You can also change the maximum amount of venerated animals (18 venerated animal
 			<displayName>Ideology</displayName>
 		</li>
 	</modDependencies>
+	<loadAfter>
+		<li>oskarpotocki.vanillafactionsexpanded.core</li>
+	</loadAfter>
 </ModMetaData>
