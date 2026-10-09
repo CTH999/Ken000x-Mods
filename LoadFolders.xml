@@ -1,39 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <loadFolders>
 	<v1.3>
-		<!-- non version-specific -->
-		<li>/</li>
-		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
-		
-		<!-- version specific -->
 		<li>1.3+</li>
 	</v1.3>
 	<v1.4>
-		<!-- non version-specific -->
-		<li>/</li>
-		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
-		
-		<!-- version specific -->
 		<li>1.3+</li>
 	</v1.4>
 	<v1.5>
-		<!-- non version-specific -->
-		<li>/</li>
-		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
-		
-		<!-- version specific -->
 		<li>1.3+</li>
 	</v1.5>
 	<v1.6>
-		<!-- non version-specific -->
-		<li>/</li>
-		<li>Common</li>
-		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li>
-		
-		<!-- version specific -->
 		<li>1.3+</li>
 	</v1.6>
 </loadFolders>
