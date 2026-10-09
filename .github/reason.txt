@@ -1,0 +1,1 @@
+this folder can contain the Readme and a few other files. Wheter it will be used is unknown
