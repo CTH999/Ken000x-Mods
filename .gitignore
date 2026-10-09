@@ -364,3 +364,4 @@ FodyWeavers.xsd
 
 # Blender - backup files
 *.blend1
+/.transfer
