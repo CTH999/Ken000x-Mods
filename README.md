@@ -1,6 +1,2 @@
-# Mods
-
-In this repository I have updated Ken000x-s mods
-
-Every Mod is in a different branch. <br>
-<a href=>More Max Memes</a><br>
+# More-Max-Mems_Ported
+  one of my (personal) favorite mods for increase the max number of memes, modified to include rimworld 1.5
