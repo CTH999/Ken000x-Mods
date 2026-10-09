@@ -1,6 +1,5 @@
 # Mods
 
-In this repository I have updated Ken000x-s mods
+In this branch are all my mods for Rimworld.
 
-Every Mod is in a different branch. <br>
-<a href=>More Max Memes</a><br>
+<a href="https://github.com/kenx00x/Mods/tree/master">Go back to main page</a>
